@@ -2,6 +2,7 @@
     "name": "wouterj/peg",
     "description": "A PEG parser for PHP",
     "license": "BSD-3-Clause",
+    "version": "1.2.0",
     "authors": [
         {
             "name": "Wouter de Jong",
